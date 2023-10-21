@@ -30,6 +30,7 @@ public class Backtracking {
     // }
 
     // N -> Queens 
+    // N -> Queens problem is solved on online IDE
 
     public static void main(String args[]){
 
